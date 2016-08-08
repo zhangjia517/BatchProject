@@ -1,0 +1,31 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\DisplayFileExt]
+@="显示/隐藏 文件扩展名"
+[HKEY_CLASSES_ROOT\*\shell\DisplayFileExt\Command]
+@="WScript.exe C:\\Windows\\SuperHidden.vbs"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\DisplayFileExt]
+@="显示/隐藏 文件扩展名"
+[HKEY_CLASSES_ROOT\Directory\Background\shell\DisplayFileExt\Command]
+@="WScript.exe C:\\Windows\\SuperHidden.vbs"
+
+[HKEY_CLASSES_ROOT\Folder\shell\DisplayFileExt]
+@="显示/隐藏 文件扩展名"
+[HKEY_CLASSES_ROOT\Folder\shell\DisplayFileExt\Command]
+@="WScript.exe C:\\Windows\\SuperHidden.vbs"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\*\shell\DisplayFileExt]
+@="显示/隐藏 文件扩展名"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\*\shell\DisplayFileExt\Command]
+@="WScript.exe C:\\Windows\\SuperHidden.vbs"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\Background\shell\DisplayFileExt]
+@="显示/隐藏 文件扩展名"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Directory\Background\shell\DisplayFileExt\Command]
+@="WScript.exe C:\\Windows\\SuperHidden.vbs"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\DisplayFileExt]
+@="显示/隐藏 文件扩展名"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\DisplayFileExt\Command]
+@="WScript.exe C:\\Windows\\SuperHidden.vbs"
