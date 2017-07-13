@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\Fostudio NotePad++]
+@="Fostudio NotePad++"
+"Icon"="D:\\Resource\\Dropbox\\Portable\\PortableApps\\Notepad++Portable\\Notepad++.exe"
+
+[HKEY_CLASSES_ROOT\*\shell\Fostudio NotePad++\Command]
+@="D:\\Resource\\Dropbox\\Portable\\PortableApps\\Notepad++Portable\\Notepad++.exe \"%1\""
