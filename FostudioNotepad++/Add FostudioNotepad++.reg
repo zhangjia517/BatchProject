@@ -1,8 +1,8 @@
 Windows Registry Editor Version 5.00
 
-[HKEY_CLASSES_ROOT\*\shell\Fostudio Notepad++]
-@="Fostudio Notepad++"
+[HKEY_CLASSES_ROOT\*\shell\Open with Fostudio Notepad++]
+@="Open with Fostudio Notepad++"
 "Icon"="D:\\Portable\\Npp-7.4.1\\notepad++.exe"
 
-[HKEY_CLASSES_ROOT\*\shell\Fostudio Notepad++\Command]
+[HKEY_CLASSES_ROOT\*\shell\Open with Fostudio Notepad++\Command]
 @="D:\\Portable\\Npp-7.4.1\\notepad++.exe %1"
